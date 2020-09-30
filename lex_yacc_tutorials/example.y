@@ -23,6 +23,10 @@ identifiers:
 
 %%
 
+void yyerror(char* s) {
+	fprintf(stderr, "%s", s);	
+}
+
 int main (void) {
 	/* init symbol table */
 	//int i;
