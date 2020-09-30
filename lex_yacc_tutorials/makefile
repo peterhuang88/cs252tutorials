@@ -1,5 +1,5 @@
 calc: lex.yy.c y.tab.c
-	gcc -g lex.yy.c y.tab.c -o example
+	g++ -g lex.yy.c y.tab.c -o example
 
 lex.yy.c: y.tab.c example.l
 	lex example.l
