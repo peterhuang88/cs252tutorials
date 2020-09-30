@@ -10,8 +10,7 @@ int yylex();
 	return IDENTIFIER;
 }
 
-[|] {
-	printf("found a PIPE\n");
+[\|] {
 	return PIPE;
 }
 

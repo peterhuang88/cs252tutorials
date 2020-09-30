@@ -18,7 +18,11 @@ line:
 
 identifiers:
 	IDENTIFIER
-	| identifiers PIPE IDENTIFIER
+	| identifiers pipe_thing IDENTIFIER
+	;
+
+pipe_thing:
+	PIPE
 	;
 
 %%

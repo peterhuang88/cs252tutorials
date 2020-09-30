@@ -8,5 +8,5 @@ y.tab.c: example.y
 	yacc -d example.y
 
 clean: 
-	rm -rf lex.yy.c y.tab.c y.tab.h
+	rm -rf lex.yy.c y.tab.c y.tab.h example.dSYM
 
