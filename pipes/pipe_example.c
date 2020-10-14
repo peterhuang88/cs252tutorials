@@ -30,6 +30,7 @@ int main() {
 	if (p < 0) {
 		// this means our fork failed
 		fprintf(stderr, "fork failed\n");		
+		exit(1);
 	}
 	else if (p > 0) {
 		// this is the parent
