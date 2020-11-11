@@ -8,7 +8,11 @@ shell part2 slides:
 https://docs.google.com/presentation/d/1wI0v14U1-Kn-DdGzh2zyr82f-MgrCEmtE-YLohM1fa4/edit?usp=sharing
 
 Shell part3 slides:
+<<<<<<< HEAD
 https://docs.google.com/presentation/d/18PaBrJJ3xzuDiD5sukLg0K-c57ZRcUCM0b-18TSfzcQ/edit?usp=sharing
 
 Lab 5 - webserver slides:
 https://docs.google.com/presentation/d/1zekW_QOnVuDWp0nyNPFN3o84VpFIq-Z2EGcBASC4hsU/edit?usp=sharing
+=======
+https://docs.google.com/presentation/d/18PaBrJJ3xzuDiD5sukLg0K-c57ZRcUCM0b-18TSfzcQ/edit?usp=drivesdk
+>>>>>>> c840d373785e3492af0c507564c7cd2c08274b03
