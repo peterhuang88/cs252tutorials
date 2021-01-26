@@ -1,6 +1,9 @@
 # cs252tutorials
 peter writes garbage tutorials
 
+malloc lab:
+https://docs.google.com/presentation/d/1ynfGn-tFdRt9OlQRwQW4FFK4Sg0qO3debe31VCAdFns/edit?usp=sharing
+
 link to lex/yacc presentation:
 https://docs.google.com/presentation/d/13fF-9431cQHHiZVa0pqiwzndy7U-krlUExDIEqiPxCw/edit?usp=sharing
 
